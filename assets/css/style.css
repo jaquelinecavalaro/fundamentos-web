@@ -1,4 +1,7 @@
 /* ESTILOS DA PÁGINA INDEX.HTML */
+body {
+    background-color: #fffbee;
+  }
 .center{
     align-items: center;
     justify-content: center;
@@ -7,6 +10,9 @@
 p{
     font-size: 20px;
     text-align: center;
+}
+.flex{
+    display: table-column;
 }
 .container{
     display: flex;
