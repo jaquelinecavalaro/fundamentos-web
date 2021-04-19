@@ -1,0 +1,57 @@
+/* ESTILOS DA PÁGINA INDEX.HTML */
+.center{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    
+}
+.justify{
+    text-align: justify;
+}
+#menu li{
+    display: inline;
+    padding: 30px;
+    
+}
+#menu li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#menu li a:hover {
+color:darkmagenta;
+}
+.p-30{
+    padding: 100px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+.wh{
+    width: 300px;
+    height: 300px;
+    padding: 100px;
+
+}
+.tm-social{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.ml-50{
+    margin-left: 50px;
+}
+/* ESTILOS DA PÁGINA CONTATO.HTML */
